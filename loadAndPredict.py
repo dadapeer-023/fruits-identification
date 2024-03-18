@@ -5,7 +5,7 @@ from keras.preprocessing.image import ImageDataGenerator, img_to_array, load_img
 from sklearn.metrics import confusion_matrix
 
 train_path = "newFruitsDataset/Training/" 
-test_path = "newFruitsDataset/Test - Copy - False/"
+test_path = "newFruitsDataset/Test - Copy/"
 
 batch_size = 32 
 
